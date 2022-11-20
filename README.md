@@ -1,3 +1,5 @@
+**This project is archived and read-only.**
+
 # hotel-example-selenide-ja
 
 [![selenide-ja](https://github.com/testplanisphere/hotel-example-selenide-ja/actions/workflows/test.yml/badge.svg)](https://github.com/testplanisphere/hotel-example-selenide-ja/actions/workflows/test.yml)
