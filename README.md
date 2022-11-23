@@ -36,7 +36,7 @@ https://hotel.testplanisphere.dev/ja/
 
 #### 必須環境
 
-* JDK 11
+* JDK 17
 * Google Chrome
 
 #### テスト・静的解析の実行
